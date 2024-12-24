@@ -1,0 +1,17 @@
+
+package arithmatic.operator;
+
+
+public class ArithmaticOperator {
+
+   
+    public static void main(String[] args) {
+    int a = 20;
+    int b = 30;
+    int c = 45;
+        System.out.println(a+b);
+        System.out.println((c*b)-a);
+        System.out.println((double)a/b);
+    }
+    
+}
